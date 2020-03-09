@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61 61" width="61" height="61">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #666d89;stroke-width: 2 } 
+	</style>
+	<g id="Services">
+		<g id="Bulb">
+			<path id="Ellipse" class="shp0" d="M30.5 1C46.79 1 60 14.21 60 30.5C60 46.79 46.79 60 30.5 60C14.21 60 1 46.79 1 30.5C1 14.21 14.21 1 30.5 1Z" />
+		</g>
+	</g>
+</svg>

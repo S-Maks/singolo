@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 19" width="19" height="19">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #bababa } 
+	</style>
+	<g id="Slider">
+		<g id="iPhone Vertical">
+			<g id="Home Button">
+				<path id="Square" fill-rule="evenodd" class="shp0" d="M4.88 1.5L13.7 1.5C15.75 1.5 17.42 3.16 17.42 5.21L17.42 14C17.42 16.05 15.75 17.72 13.7 17.72L4.88 17.72C2.82 17.72 1.16 16.05 1.16 14L1.16 5.21C1.16 3.16 2.82 1.5 4.88 1.5ZM2.87 6.14L2.87 13.06C2.87 14.67 4.18 15.98 5.8 15.98L12.75 15.98C14.36 15.98 15.67 14.67 15.67 13.06L15.67 6.14C15.67 4.52 14.36 3.21 12.75 3.21L5.8 3.21C4.18 3.21 2.87 4.52 2.87 6.14Z" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" width="12" height="12">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #d8d8d8 } 
+	</style>
+	<g id="Slider">
+		<g id="iPhone Vertical">
+			<g id="Cam">
+				<path id="Outer Circle" class="shp0" d="M6.27 1.51C8.72 1.51 10.7 3.49 10.7 5.93C10.7 8.37 8.72 10.34 6.27 10.34C3.82 10.34 1.84 8.37 1.84 5.93C1.84 3.49 3.82 1.51 6.27 1.51Z" />
+			</g>
+		</g>
+	</g>
+</svg>
