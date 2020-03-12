@@ -139,8 +139,7 @@ nav a:hover {
 .left-swiper:hover {
     opacity: 0.5;
     left: 287px;
-    animation-name: rotate;
-    animation-duration: 1s;
+    transform: scale(0.95);
 }
 
 .right-swiper {
@@ -152,8 +151,7 @@ nav a:hover {
 .right-swiper:hover {
     left: 1218px;
     opacity: 0.5;
-    animation-name: rotate;
-    animation-duration: 1s;
+    transform: scale(0.95);
 }
 
 /*VERTICAL IPHONE*/
@@ -420,6 +418,7 @@ nav a:hover {
     color: #ffffff;
     cursor: pointer;
     border: 1px solid #ffffff;
+    transform: scale(1.05);
 }
 
 .portfolio-images {
@@ -439,7 +438,7 @@ nav a:hover {
 .portfolio-images div:hover {
     transform: scale(0.95);
     cursor: pointer;
-    transition: all 0.3s ease;
+    transform: scale(1.05);
 }
 
 .about_us {
