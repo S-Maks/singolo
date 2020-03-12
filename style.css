@@ -585,13 +585,14 @@ input:nth-child(4) {
 }
 
 input:last-child {
-    width: 120px;
+    width: 620px;
     padding-right: 10px;
     font-size: 14px;
-    margin-left: 499px;
+ 
 }
 
 input:last-child:hover {
+    transition: 500ms;
     background-color: #2d303a;
     font-size: 16px;
     cursor: pointer;
