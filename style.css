@@ -85,6 +85,7 @@ nav a {
 }
 
 nav a:hover {
+    transition: 200ms;
     color: #f06c64; 
 }
 
@@ -139,6 +140,8 @@ nav a:hover {
 .left-swiper:hover {
     opacity: 0.5;
     left: 287px;
+    cursor: pointer;
+    transition: 400ms;
     transform: scale(0.95);
 }
 
@@ -151,6 +154,8 @@ nav a:hover {
 .right-swiper:hover {
     left: 1218px;
     opacity: 0.5;
+    cursor: pointer;
+    transition: 400ms;
     transform: scale(0.95);
 }
 
@@ -418,6 +423,7 @@ nav a:hover {
     color: #ffffff;
     cursor: pointer;
     border: 1px solid #ffffff;
+    transition: 400ms;
     transform: scale(1.05);
 }
 
@@ -436,9 +442,10 @@ nav a:hover {
 }
 
 .portfolio-images div:hover {
+    transition: 200ms;
     transform: scale(0.95);
     cursor: pointer;
-    transform: scale(1.05);
+    transform: scale(1.05 );
 }
 
 .about_us {
@@ -460,7 +467,10 @@ nav a:hover {
 .persons-info-image {
     width: 300px;
 }
-
+.persons-info-image:hover{
+    transition: 400ms;
+transform: scale(1.05);
+}
 .persons-info-text {
     margin-right: -4px;
 }
@@ -515,8 +525,8 @@ nav a:hover {
 }
 
 .persons-info-contacts a:hover {
-    border: 2px solid #c48862;
     cursor: pointer;
+    transition: 400ms;
     transform: scale(1.2);
 }
 
@@ -684,7 +694,7 @@ footer {
 }
 
 .footer__contacts a:hover {
-    border: 2px solid #d6564f;
+    transition: 400ms;
     cursor: pointer;
     transform: scale(1.2);
 }
