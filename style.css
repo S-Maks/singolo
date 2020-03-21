@@ -306,7 +306,17 @@ nav a:hover {
 	top: -119px;
     left: -124px;
 }
+.horizontal-blackRect{
 
+     background-color: #000000;
+    position: absolute;
+    width: 333px;
+    height: 188px;
+    left: 733px;
+    top: 283px;
+    border-radius: 3px;
+
+}
 
 /*SERVICES*/
 
