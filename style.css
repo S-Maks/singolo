@@ -189,12 +189,14 @@ nav a:hover {
     position: absolute;
     left: 446px;
     top: 553px;
+    cursor: pointer;
 }
 
 .vertical-square {
     position: absolute;
     left: 460px;
     top: 567px;
+    cursor: pointer;
 }
 
 .vertical-speaker {
@@ -275,12 +277,14 @@ nav a:hover {
     position: absolute;
     left: 682px;
     top: 353px;
+    cursor: pointer;
 }
 
 .horizontal-square {
     position: absolute;
     left: 695px;
     top: 367px;
+    cursor: pointer;
 }
 
 .horizontal-speaker {
@@ -354,6 +358,7 @@ nav a:hover {
     font-family: "Lato", Arial, sans-serif;
     font-weight: 300;
 }
+
 /*GRID*/
 
 .wrapper {
@@ -458,7 +463,16 @@ nav a:hover {
     transform: scale(1.05);
 }
 
+.border-img{
+    border: 5px solid #F06C64 ;
+}
+.border-off{
+    border: none;
+}
+
+
 .portfolio-images {
+
     padding-top: 18px;
     height: 601px;
     display: grid;
@@ -473,10 +487,7 @@ nav a:hover {
 }
 
 .portfolio-images div:hover {
-    transition: 200ms;
-    transform: scale(0.95);
     cursor: pointer;
-    transform: scale(1.05 );
 }
 
 .about_us {
